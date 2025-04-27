@@ -17,6 +17,54 @@ User Authentication: Secure login system for blood bank administrators.
 
 Reports Generation: Generate summaries and reports for management and analysis.
 
+```rust
+Directory structure:
+└── ananya-hegde2001-blood-bank-management-system/
+    ├── README.md
+    ├── build.xml
+    ├── manifest.mf
+    ├── nbproject/
+    │   ├── build-impl.xml
+    │   ├── genfiles.properties
+    │   ├── project.properties
+    │   ├── project.xml
+    │   └── private/
+    │       ├── config.properties
+    │       ├── private.properties
+    │       └── private.xml
+    └── src/
+        ├── addNewDoner.form
+        ├── addNewDoner.java
+        ├── allDonorDetails.form
+        ├── allDonorDetails.java
+        ├── deleteDonor.form
+        ├── deleteDonor.java
+        ├── home.form
+        ├── home.java
+        ├── login background final.PNG
+        ├── login.form
+        ├── login.java
+        ├── searchBloodDonerLocation.form
+        ├── searchBloodDonerLocation.java
+        ├── searchBloodDonorBloodGroup.form
+        ├── searchBloodDonorBloodGroup.java
+        ├── stockDecrease.form
+        ├── stockDecrease.java
+        ├── stockDetails.form
+        ├── stockDetails.java
+        ├── stockIncrease.form
+        ├── stockIncrease.java
+        ├── updateDetailsDonor.form
+        ├── updateDetailsDonor.java
+        ├── blood/
+        │   └── bank/
+        │       └── management/
+        │           └── system/
+        │               ├── BloodBankManagementSystem.java
+        │               └── home.java
+        └── Project/
+            └── ConnectionProvider.java
+```
 
 
 # 🛠️ Technologies Used
